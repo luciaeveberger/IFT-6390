@@ -2,9 +2,9 @@
 
 
 The repository is the submission for Lucia Eve Berger. 
-Please find the following juypter notebook files under `Code`
+Please find the following juypter notebook files. The report outlines each of these files.
 
-# 1. Data Explortation
+# 1. Data Explortation 
 # 2. Logitistic Regression 
 # 3. SVM HyperParamter Tuning 
 # 4. CNN & Model Tuning 
